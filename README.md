@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning JavaScript
 - 🤔 I’m still a software development student who is opened for help and mentorship.
 - 😄 Pronouns: he/him
-- you can reach me by sending an email [here](pasytchangwa@gmail.com)
+- you can reach me by sending an email [here](mail to: pasytchangwa@gmail.com)
 
 <!--
 **pasytchangwa/Pasytchangwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying Software Development at Microverse
 - 🌱 I’m currently learning JavaScript
-- 🤔 I’m looking still a software development student who is opened for help in JavaScript
+- 🤔 I’m still a software development student who is opened for help and mentorship.
 - 😄 Pronouns: he/him
 - you can reach me by sending an email [here](pasytchangwa@gmail.com)
 

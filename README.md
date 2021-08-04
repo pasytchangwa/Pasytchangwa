@@ -16,7 +16,7 @@
 
 ## My Stats
 
-| <img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasytchangwa" /> | <img src="https://github-readme-stats.vercel.app/api?username=pasytchangwa&show_icons=true" alt="Sylvestre" /> |
+| <img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasytchangwa" /> | <img src="https://github-readme-stats.vercel.app/api?username=pasytchangwa&show_icons=true&theme=merko" alt="Sylvestre" /> |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
 # Languages, Frameworks and Libraries, data bases, and Tools:
 ---

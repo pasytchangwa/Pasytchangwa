@@ -2,10 +2,10 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=pasytchangwa&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/pasytchangwa/pasytchangwa?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 - 📫 How to reach me: ...
+
 <p align="start">
   <a href="https://twitter.com/Sylvest10415595"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/twitter.svg" alt="twitter logo" height="20"></a>&nbsp;&nbsp;
   <a href="mailto:pasytchangwa@gmail.com"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/gmail.svg" alt="gmail logo" height="20"></a>&nbsp;&nbsp;
-<br />
 
 ### Glad to see you here! 🤩 &nbsp;
 

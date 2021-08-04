@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 -->
 -
 
-[![Sylvestre's github stats](https://github-readme-stats.vercel.app/api?username=psytchangwa)](https://github.com/pasytchangwa/github-readme-stats)
+[![Sylvestre's github stats](https://github-readme-stats.vercel.app/api?username=pasytchangwa)](https://github.com/pasytchangwa/github-readme-stats)
 

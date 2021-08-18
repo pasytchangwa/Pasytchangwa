@@ -35,6 +35,7 @@
 ---
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![REACT](https://img.shields.io/badge/React-CC6699?style=for-the-badge&logo=react&logoColor=white)
 
 ## Testing:
 ---

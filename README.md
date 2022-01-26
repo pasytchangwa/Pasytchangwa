@@ -4,7 +4,7 @@
 - 📫 How to reach me: ...
 
 <p align="start">
-   <a href="https://twitter.com/Sylvest10415595"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="twitter logo" height="20"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/sylvestretchangwa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" height="20"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/Sylvest10415595"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/twitter.svg" alt="twitter logo" height="20"></a>&nbsp;&nbsp;
   <a href="mailto:pasytchangwa@gmail.com"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/gmail.svg" alt="gmail logo" height="20"></a>&nbsp;&nbsp;
 

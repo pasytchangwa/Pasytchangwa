@@ -11,7 +11,7 @@
 
 - 🔭 I am a Full Stack Web Developer and a graduate from ![](https://img.shields.io/badge/Microverse-blueviolet) which is an online remote software development program that uses pair programming and project building to teach development.
 - 🌱 I have expertise in the following: HTML5, CSS, JavaScript, React, Redux, Ruby on Rails, Database and Python, Pair programming.
-- 👯 I’m opened for new opportunities and collaboration .
+- 👯 I am open for new opportunities and collaboration .
 - 😄 Pronouns: He/Him  
 
 ## My Stats

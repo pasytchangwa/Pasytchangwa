@@ -1,4 +1,4 @@
-### Hi there 👋 I am Sylvestre
+### Hi there 👋 I am Sylvestre, a Full Stack Web developer looking forward to hearing from you.
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=pasytchangwa&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/pasytchangwa/pasytchangwa?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 - 📫 How to reach me: ...
@@ -9,9 +9,9 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-- 🔭 I’m currently studying Software Development at ![](https://img.shields.io/badge/Microverse-blueviolet) which is an online remote software development program that uses pair programming and project building to teach development.
-- 🌱 I’m currently learning JavaScript API.
-- 👯 I’m opened for collaboration.
+- 🔭 I am a Full Stack Web Developer and a graduate from ![](https://img.shields.io/badge/Microverse-blueviolet) which is an online remote software development program that uses pair programming and project building to teach development.
+- 🌱 I have expertise in the following: HTML5, CSS, JavaScript, React, Redux, Ruby on Rails, Database and Python, Pair programming.
+- 👯 I’m opened for new opportunities and collaboration .
 - 😄 Pronouns: He/Him  
 
 ## My Stats
